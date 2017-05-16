@@ -1,0 +1,103 @@
+.content {
+  width: 100%;
+}
+.content-inner {
+  width: 900px;
+  margin: 0 auto;
+}
+.nav {
+  float: left;
+  width: 70px;
+  background-color: #262626;
+  padding-bottom: 25px;
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+.menu {
+  cursor: pointer;
+  margin: 0 auto;
+  display: block;
+  width: 68px;
+}
+.head {
+  cursor: pointer;
+  display: block;
+  width: 43px;
+  margin: 31px auto;
+}
+.tubiao {
+  width: 32px;
+  margin: 20px auto;
+}
+.iconfont {
+  color: #fff;
+  font-size: 30px;
+  cursor: pointer;
+}
+.shezhi {
+  margin: auto;
+  width: 32px;
+  margin-top: 280px;
+}
+.nav-click {
+  color: #a2e563;
+}
+.list {
+  width: 255px;
+  float: left;
+  background-color: #fbfbfb;
+}
+.list-inp {
+  display: block;
+  margin: 0 auto;
+  width: 255px;
+}
+.list ul {
+  width: 100%;
+}
+.list li {
+  cursor: pointer;
+  width: 100%;
+  line-height: 70px;
+  height: 71px;
+  font-size: 16px;
+  border-bottom: 1px solid #ccc;
+}
+.list li img {
+  width: 44px;
+  margin: 15px 12px;
+}
+.list-click {
+  background: #e1e1e1;
+}
+._list {
+  width: 255px;
+  float: left;
+}
+.disp {
+  display: none;
+}
+.chat {
+  float: left;
+  width: 570px;
+  background-color: #f3f3f3;
+}
+.chat-top {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+}
+#name {
+  display: block;
+  float: left;
+  margin-left: 16px;
+  font-size: 16px;
+  line-height: 49px;
+}
+.xinxi {
+  display: block;
+  float: right;
+  margin-right: 20px;
+  line-height: 49px;
+  font-size: 20px;
+  color: #767676;
+}
